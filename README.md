@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolaosPapadonikolakis
 - 👀 I’m interested in Python, Pentesting, Ethical Hacking, Unix
-- 🌱 I’m currently learning Pythoh
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
